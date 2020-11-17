@@ -31,8 +31,8 @@ public class TestServlet extends HttpServlet {
 	System.out.println("test");
 	System.out.println("test1");
 	
-	
-	System.out.println("test4");
+	System.out.println("test3");
+
 
 	}
 	/**
