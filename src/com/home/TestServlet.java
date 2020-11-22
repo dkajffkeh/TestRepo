@@ -28,47 +28,9 @@ public class TestServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 	
 	System.out.println("test");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
-	System.out.println("test3");
+	
+	
+	
 
 	}
 	/**
